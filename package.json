@@ -57,5 +57,7 @@
     "@types/node": "^24.0.0",
     "electron": "44.9.3",
     "ws": "8.21.3"
-  }
+  },
+  "description": "A 2.5D tower defense game on an open field: every tower you place changes the enemies' path, with four upgradeable turrets against ground and air units over 100 rounds.",
+  "license": "MIT"
 }
